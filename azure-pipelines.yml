@@ -8,7 +8,7 @@ variables:
  - name: blueprintName
    value: '101-boilerplate'
  - name: subscriptionId
-   value: 'e93d3ee6-fac1-412f-92d6-bfb379e81af2' # / Contoso IT - SH360 - Prod
+   value: 'd6e8a936-e308-42c1-aa49-053de0adcd30' # / Contoso IT - SH360 - Prod
 
 trigger:
   branches:
